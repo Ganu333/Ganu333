@@ -1,6 +1,6 @@
 
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/C4E12AQFYAHiNDgRcig/article-cover_image-shrink_600_2000/0/1537754552071?e=2147483647&v=beta&t=dr2-18RWFUtKqkxrvtrZt981UuaKSd9bOPcG5qu3-WQ)
 
-![](https://img.freepik.com/free-vector/business-people-analyzing-marketing-reports_74855-11420.jpg?w=2000)
 
 # Hi there 👋, I'm Ganesh Kakade
 
