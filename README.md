@@ -21,7 +21,7 @@
 * [Power BI](http://example.com)
 
 
-* [SQL](http://example.com)
+* [SQL][(http://example.com](https://www.hackerrank.com/certificates/iframe/3972d9c6c5d6))
 
 
 
